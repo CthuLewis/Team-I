@@ -1244,3 +1244,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.31-12.38.13:520][207]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.31-12.38.13:520][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.01.31-12.38.13:521][207]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.01.31-12.38.45:695][171]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.38.45:695][171]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.01.31-12.38.45:696][171]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.38.45:696][171]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.01.31-12.38.45:697][171]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.38.45:697][171]LogWindows: Warning: URL: C:\Users\lycan\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.01.31-12.38.45:698][171]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.38.45:698][171]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.01.31-12.38.45:699][171]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.38.45:699][171]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.01.31-12.38.45:699][171]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.38.45:700][171]LogWindows: Warning: URL: C:\Users\lycan\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.01.31-12.38.45:700][171]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.38.45:700][171]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.01.31-12.39.01:018][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.31-12.39.07:157][589]SourceControl: Source control is disabled
+[2022.01.31-12.39.09:329][791]LogSlate: Window 'Source Control Login' being destroyed
+[2022.01.31-12.40.28:369][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.31-12.44.28:684][461]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.44.28:684][461]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.01.31-12.44.28:685][461]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.44.28:685][461]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.01.31-12.44.28:685][461]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.44.28:685][461]LogWindows: Warning: URL: C:\Users\lycan\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.01.31-12.44.28:686][461]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.44.28:686][461]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.01.31-12.44.28:686][461]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.44.28:687][461]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.01.31-12.44.28:687][461]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.44.28:687][461]LogWindows: Warning: URL: C:\Users\lycan\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.01.31-12.44.28:688][461]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.31-12.44.28:688][461]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.01.31-12.44.31:967][728]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.01.31-12.44.31:967][728]LogWindows: Warning: URL: D:/UE_4.27/Engine/Binaries/Win64/ version
+[2022.01.31-12.46.09:685][549]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.01.31-12.46.24:255][895]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.01.31-12.46.24:255][895]LogWindows: Warning: URL: C:/Users/lycan/AppData/Local/GitHubDesktop version
+[2022.01.31-12.46.24:330][901]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.01.31-12.46.24:330][901]LogWindows: Warning: URL: C:/Users/lycan/AppData/Local/GitHubDesktop version
+[2022.01.31-12.46.24:330][901]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.01.31-13.23.06:100][864]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3bb21dd5-6692-4395-abf3-e9cd4659f50f}.
+[2022.01.31-13.23.06:101][864]LogAudioMixer: Resetting audio stream to device id 
+[2022.01.31-13.23.06:127][864]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.31-13.23.06:127][864]LogAudioMixer: Display: 1: FrontRight
