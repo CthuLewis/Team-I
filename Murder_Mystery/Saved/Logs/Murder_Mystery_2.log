@@ -903,3 +903,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.31-16.40.44:964][576]LogAudioMixer: Resetting audio stream to device id 
 [2022.01.31-16.40.44:973][576]LogAudioMixer: Display: 0: FrontLeft
 [2022.01.31-16.40.44:973][576]LogAudioMixer: Display: 1: FrontRight
+[2022.01.31-16.42.43:510][852]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.01.31-16.42.43:516][852]LogContentBrowser: Creating deferred item: NewWorld
+[2022.01.31-16.42.46:517][209]LogContentBrowser: Attempting asset rename: NewWorld -> Testing
+[2022.01.31-16.42.46:591][209]LogContentBrowser: End creating deferred item NewWorld
+[2022.01.31-16.42.48:777][461]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.31-16.42.48:793][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.01.31-16.42.48:829][461]LogSavePackage: Moving '../../../../Misc/GroupMystery/Team-I/Murder_Mystery/Saved/ThirdPersonExampleMapA612A49E49FC385158720A892AC98920.tmp' to '../../../../Misc/GroupMystery/Team-I/Murder_Mystery/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.01.31-16.42.48:845][461]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.01.31-16.42.48:845][461]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
