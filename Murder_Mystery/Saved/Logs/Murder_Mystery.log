@@ -2302,3 +2302,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.31-16.21.18:333][ 68]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.31-16.21.18:333][ 68]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Game.Game
 [2022.01.31-16.21.18:333][ 68]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Game_BuiltData.Game_BuiltData
+[2022.01.31-16.29.47:594][224]Cmd: SELECT NONE
+[2022.01.31-16.32.05:089][608]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.31-16.32.05:104][608]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.31-16.32.06:876][821]LogContentBrowser: Attempting asset rename: NewFolder -> mat
+[2022.01.31-16.32.06:876][821]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.31-16.32.11:081][298]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.31-16.32.11:101][298]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.31-16.32.13:512][588]LogContentBrowser: Attempting asset rename: NewFolder -> jordan
+[2022.01.31-16.32.13:513][588]LogContentBrowser: End creating deferred item NewFolder
